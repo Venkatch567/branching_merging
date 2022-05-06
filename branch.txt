@@ -1,0 +1,3 @@
+git branch
+git branch branch name
+git branch  -a
